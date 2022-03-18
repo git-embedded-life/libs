@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC4245A
+D Dual supply translating transceiver, 3-state, 8-bit, VSSOP-8
+K Level-Shifter CMOS-TTL-Translation
+F https://assets.nexperia.com/documents/data-sheet/74LVC4245A.pdf
+$ENDCMP
+#
+$CMP CONN_16
+D Symbole general de connexion
+K CONN
+$ENDCMP
+#
+$CMP DIP_SW_4
+D Interrupteur simple
+K switch
+$ENDCMP
+#
+$CMP SN54HC27
+D Single NOR 3 Input Gate, Low-Voltage CMOS
+K Single Gate NOR triple LVC CMOS
+F https://www.ti.com/lit/ds/symlink/sn54hc27.pdf?ts=1592932725921
+$ENDCMP
+#
+$CMP SN74HC27
+D Dual NOR 3 Input Gate, Low-Voltage CMOS
+K Dual Gate NOR triple LVC CMOS
+F https://www.ti.com/lit/ds/symlink/sn54hc27.pdf?ts=1592932725921
+$ENDCMP
+#
+#End Doc Library
